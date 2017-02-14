@@ -1,4 +1,4 @@
-var fruits = ["apple", "banana", "cherry"];
+// var fruits = ["apple", "banana", "cherry"];
 // function outputFruitOld (array) {
 //   for (i = 0; i < array.length; i++){		//more performance than .forEach
 //   	console.log(array[i]);
@@ -27,7 +27,7 @@ var fruits = ["apple", "banana", "cherry"];
 
 // backwardFruitsOld(fruits);
 
-// // ***MAP ARRAY METHOD***
+// // // ***MAP ARRAY METHOD***
 
 // var backwardFruit = fruits.map(function(fruit){
 // 	return fruits.split("").reverse().join("");
@@ -56,26 +56,26 @@ var fruits = ["apple", "banana", "cherry"];
 // console.log(filteredFruits);
 
 
-var numbers = [0, 1, 2, 3, 4];
+// var numbers = [0, 1, 2, 3, 4];
 
-function addzOld(array){
-	for (var i = 0; i < array.length; i++){
-		sum = sum + array[i];
-	}
-	console.log(sum);
-}
-addzOld(numbers);
+// function addzOld(array){
+// 	for (var i = 0; i < array.length; i++){
+// 		sum = sum + array[i];
+// 	}
+// 	console.log(sum);
+// }
+// addzOld(numbers);
 
-// ******REDUCE ARRAY METHOD******
+// // ******REDUCE ARRAY METHOD******
 
-var sum = [0, 1, 2, 3, 4].reduce(function(previousValue, currentValue, index){
-	console.log("current index " + index);
-	console.log("previousValue ", previousValue);
-	console.log("currentValue ", currentValue);
-	return previousValue + currentValue;
+// var sum = [0, 1, 2, 3, 4].reduce(function(previousValue, currentValue, index){
+// 	console.log("current index " + index);
+// 	console.log("previousValue ", previousValue);
+// 	console.log("currentValue ", currentValue);
+// 	return previousValue + currentValue;
 
-});
-console.log(sum);
+// });
+// console.log(sum);
 
 
 
