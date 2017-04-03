@@ -1,12 +1,12 @@
 # NSS Exercise: Advanced Array Methods Classwork
 
 ### Description:
->
+> Learning chaining techniques in javascript. 
 
 ### Final Result:
 > All requirements are met.  
 
-![Card Screenshot](https://raw.githubusercontent.com/Megraohoh/productcards/exercise/screenshots/Screen%20Shot%202017-04-02%20at%209.05.20%20PM.png)
+![Card Screenshot](https://raw.githubusercontent.com/Megraohoh/AdvancedArrayMethods/classwork/screenshot/Screen%20Shot%202017-04-02%20at%209.20.10%20PM.png)
 
 ### How to run :
 ```
